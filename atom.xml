@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://flysnowxf.github.io/"/>
-  <updated>2017-03-03T01:54:18.980Z</updated>
+  <updated>2017-03-07T06:33:12.000Z</updated>
   <id>http://flysnowxf.github.io/</id>
   
   <author>
@@ -16,54 +16,88 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://flysnowxf.github.io/2017/03/02/hello-world/"/>
-    <id>http://flysnowxf.github.io/2017/03/02/hello-world/</id>
-    <published>2017-03-02T11:15:17.820Z</published>
-    <updated>2017-03-03T01:54:18.980Z</updated>
+    <title>关于我</title>
+    <link href="http://flysnowxf.github.io/2017/03/07/resume/"/>
+    <id>http://flysnowxf.github.io/2017/03/07/resume/</id>
+    <published>2017-03-07T06:09:22.300Z</published>
+    <updated>2017-03-07T06:33:12.000Z</updated>
     
     <content type="html"><![CDATA[<!-- toc -->
-<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<p>欢迎来到 <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>！这是你的第一篇博客。查看 <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> 了解更多内容。</p>
-<a id="more"></a>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
-<h2 id="Quick-Start-1"><a href="#Quick-Start-1" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post-1"><a href="#Create-a-new-post-1" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server-1"><a href="#Run-server-1" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files-1"><a href="#Generate-static-files-1" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites-1"><a href="#Deploy-to-remote-sites-1" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
-<h2 id="Quick-Start-2"><a href="#Quick-Start-2" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post-2"><a href="#Create-a-new-post-2" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server-2"><a href="#Run-server-2" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files-2"><a href="#Generate-static-files-2" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites-2"><a href="#Deploy-to-remote-sites-2" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+<h1 id="联系方式"><a href="#联系方式" class="headerlink" title="联系方式"></a>联系方式</h1><ul>
+<li>手机：15810643957，微信同</li>
+<li>Email：flysnowxf@gmail.com</li>
+</ul>
+<h1 id="基本信息"><a href="#基本信息" class="headerlink" title="基本信息"></a>基本信息</h1><p>冯雪峰，男，85 年生，08 年本科毕业，在北京互联网行业工作 9 年。</p>
+<p>意向昆明，期望从事 Java 相关的服务端开发工作，或者技术管理、项目管理等管理工作。</p>
+<p>暂在北京，大约 3 月 20 号以后可在昆明参加面试等流程。</p>
+<h1 id="工作经历"><a href="#工作经历" class="headerlink" title="工作经历"></a>工作经历</h1><h2 id="北京云游互联科技有限公司"><a href="#北京云游互联科技有限公司" class="headerlink" title="北京云游互联科技有限公司"></a>北京云游互联科技有限公司</h2><p>2012 年 8 月 - 至今</p>
+<ul>
+<li>公司规模：团队大约在 20 - 30 人</li>
+<li>职位：联合创始人兼技术总监。股权信息可自行查找「国家企业信用信息公示系统」</li>
+<li>主要负责：技术团队搭建、人员招聘、项目研发和网站上线维护等技术相关工作</li>
+</ul>
+<h3 id="你来出境游-nilai-com（2014-年-至今）"><a href="#你来出境游-nilai-com（2014-年-至今）" class="headerlink" title="你来出境游 nilai.com（2014 年 - 至今）"></a>你来出境游 nilai.com（2014 年 - 至今）</h3><p>项目初创时曾获得<strong>百度金熊掌奖</strong>及<strong>腾讯小红花奖</strong>，并于 2016 年 3 月获得 ¥1500 万投资。项目至今有近百万的 App 用户，上万的成单用户，成单金额几千万。</p>
+<p>技术人员方面，最多时候有 10 人左右的规模，涉及网站、WAP 站、iOS 端和 Android 端。网站使用了 5 台线上 Linux 服务器，使用了 Java、LVS、Nginx、Tomcat、Mysql、Git 和 Maven 等相关技术。  </p>
+<p><a href="https://www.nilai.com" target="_blank" rel="external">官网</a> / <a href="https://itunes.apple.com/cn/app/ni-lai-chu-jing-you-yu-ding/id880907877?mt=8" target="_blank" rel="external">iOS</a> / <a href="http://a.app.qq.com/o/simple.jsp?pkgname=cn.xinjinjie.nilai" target="_blank" rel="external">Android</a> / <a href="http://36kr.com/p/5044860.html" target="_blank" rel="external">36kr 报道</a></p>
+<h3 id="真有料-zhenyouliao-com（2013-年-2014-年）"><a href="#真有料-zhenyouliao-com（2013-年-2014-年）" class="headerlink" title="真有料 zhenyouliao.com（2013 年 - 2014 年）"></a>真有料 zhenyouliao.com（2013 年 - 2014 年）</h3><p>一个走流量的图片内容网站，通过百度联盟、Google Adsense 等广告方式进行营收。高峰期每天大概有 4 万的 UV，40 万的 PV。同时还参与了 <a href="http://www.juyouqu.com" target="_blank" rel="external">巨有趣</a> 网站的广告调优，该网站每天 100 万的 UV，上千万的 PV，月广告收入大于 100 万元，单日最高超过 10 万元。</p>
+<p><a href="http://www.zhenyouliao.com" target="_blank" rel="external">官网</a> / <a href="http://tech.sina.com.cn/roll/2014-03-12/14309234714.shtml" target="_blank" rel="external">新浪科技报道</a></p>
+<h3 id="山西说-shanxishuo-com（2012-年-2013-年）"><a href="#山西说-shanxishuo-com（2012-年-2013-年）" class="headerlink" title="山西说 shanxishuo.com（2012 年 - 2013 年）"></a>山西说 shanxishuo.com（2012 年 - 2013 年）</h3><p>入职时负责的第一个旅游项目，后续主要和团队开发了几个语音导游的 iOS App，并且获得了 App Store 春季出游专题的官方推荐。</p>
+<p><a href="http://www.shanxishuo.com" target="_blank" rel="external">官网</a> / <a href="http://www.shanxishuo.com/app.html" target="_blank" rel="external">App 下载</a> / <a href="http://omdzxxv4f.bkt.clouddn.com/17-3-6/32234156-file_1488792836390_997.jpg" target="_blank" rel="external">App Store 官方推荐截图</a></p>
+<h2 id="北京亮点时间科技有限公司"><a href="#北京亮点时间科技有限公司" class="headerlink" title="北京亮点时间科技有限公司"></a>北京亮点时间科技有限公司</h2><p>2010 年 7 月 - 2012 年 7 月</p>
+<ul>
+<li>职位：高级软件工程师</li>
+<li>主要负责：开发了澳洲电信移动商户黄页、手机代金券、移动互联网广告平台和用户数据中心等项目</li>
+<li>四次被评为季度 KPI 考核优秀员工（TOP 5%）</li>
+</ul>
+<h2 id="天柏宽带网络科技（北京）有限公司"><a href="#天柏宽带网络科技（北京）有限公司" class="headerlink" title="天柏宽带网络科技（北京）有限公司"></a>天柏宽带网络科技（北京）有限公司</h2><p>2008 年 7 月 - 2010 年 6 月</p>
+<ul>
+<li>职位：软件工程师</li>
+<li>主要负责：开发了重庆有线交互电视门户系统等项目</li>
+</ul>
+<h1 id="熟悉的技术栈"><a href="#熟悉的技术栈" class="headerlink" title="熟悉的技术栈"></a>熟悉的技术栈</h1><ul>
+<li>Web 开发：Java / JSP / FreeMarker</li>
+<li>Web 框架：Spring / Spring MVC / Spring Boot / Struct 2</li>
+<li>前端：HTML / CSS / JavaScript / AJAX</li>
+<li>前端框架：jQuery / Bootstrap</li>
+<li>数据库相关：MySQL / Mybatis / Hibernate</li>
+<li>缓存：Memcached / MongoDB</li>
+<li>开发工具：Eclipse / Vim</li>
+<li>应用服务器：Nginx / Apache / Tomcat</li>
+<li>服务器：Linux</li>
+<li>脚本语言：Python / Shell</li>
+<li>其他：Git / Maven / Tower</li>
+</ul>
+<h1 id="教育经历"><a href="#教育经历" class="headerlink" title="教育经历"></a>教育经历</h1><p>桂林电子科技大学，本科，计算机科学与技术，2004 年 - 2008 年。毕业论文《网络游戏外挂设计与反外挂技术研究》获得校级优秀毕业设计。</p>
+<h1 id="演讲"><a href="#演讲" class="headerlink" title="演讲"></a>演讲</h1><ul>
+<li>七牛云存储《开发者最佳实践日·第8期》：<a href="http://best.qiniu.com/archives/834" target="_blank" rel="external">以海外用户为主的APP技术难点和实现</a></li>
+</ul>
+<h1 id="专利"><a href="#专利" class="headerlink" title="专利"></a>专利</h1><ul>
+<li>《一种数字电视系统中文字输入的方法和系统》，专利号：2009100899420</li>
+</ul>
+<h1 id="更多地了解我"><a href="#更多地了解我" class="headerlink" title="更多地了解我"></a>更多地了解我</h1><ul>
+<li><a href="http://flysnowxf.iteye.com/" target="_blank" rel="external">技术博客</a>，只更新到 2012 年，后续更多使用 Evernote 管理笔记。</li>
+<li><a href="https://book.douban.com/people/3878634/collect" target="_blank" rel="external">读过的书</a></li>
+<li><a href="https://www.zhihu.com/people/feng-xue-feng" target="_blank" rel="external">知乎</a> / <a href="https://github.com/flysnowxf" target="_blank" rel="external">GitHub</a> / <a href="https://www.linkedin.com/chatin/wnc/wechat/zhJtjrTgAI" target="_blank" rel="external">LinkedIn</a> / <a href="https://www.itjuzi.com/person/6979" target="_blank" rel="external">IT 桔子</a></li>
+<li><a href="http://fengxf.com" target="_blank" rel="external">线上简历</a></li>
+</ul>
+<h1 id="我的优势"><a href="#我的优势" class="headerlink" title="我的优势"></a>我的优势</h1><ul>
+<li>技术极客。感兴趣的技术沙龙、xx 峰会，xx 大会都会积极参加。</li>
+<li>酷爱学习。毕业前几年看了近 100 本技术书籍，现在每天都会学习网易云课堂、优达学城、付费公众号和知乎 Live 等知识内容。</li>
+<li>自律能力。早上 7 点前早起，运动看书学习。跑过 3 个 42.195 公里的全程马拉松，现在每月保持 80 公里的跑步里程。</li>
+<li>良好体力。在公司几乎是工作时间最长的员工之一，可以适应周末加班通宵工作。</li>
+</ul>
+<h1 id="为什么来昆明"><a href="#为什么来昆明" class="headerlink" title="为什么来昆明"></a>为什么来昆明</h1><p>我爱人是昆明本地人，她 16 年底博士毕业后回昆明定居。我们结婚近 5 年一直分居两地，作为<strong>适合生活</strong>的定居城市，昆明几乎是我们最好的选择。</p>
 ]]></content>
     
     <summary type="html">
     
       &lt;!-- toc --&gt;
-&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;欢迎来到 &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;！这是你的第一篇博客。查看 &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; 了解更多内容。&lt;/p&gt;
+&lt;h1 id=&quot;联系方式&quot;&gt;&lt;a href=&quot;#联系方式&quot; class=&quot;headerlink&quot; title=&quot;联系方式&quot;&gt;&lt;/a&gt;联系方式&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;手机：15810643957，微信同&lt;/li&gt;
+&lt;li&gt;Email：flysnowxf
     
     </summary>
     
-      <category term="测试" scheme="http://flysnowxf.github.io/categories/%E6%B5%8B%E8%AF%95/"/>
-    
-    
-      <category term="test" scheme="http://flysnowxf.github.io/tags/test/"/>
     
   </entry>
   
